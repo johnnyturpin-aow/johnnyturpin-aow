@@ -8,12 +8,18 @@ I am also a musician, currently enjoy studying drums, but also have a small bedr
 
 I was somehow in the right place at the right time and was invited to work on the Catapult Entertainment XBand online gaming system back in mid 90s as the sound designer and musician. Here is a cool documentary about that amazing project:
 
-https://www.youtube.com/watch?v=k_5M-z_RUKA
 
-One the weekends you can find me at my local hillybilly airstripe flying planes without any engines and as the Web developer for our local club at:
+[![Xband](https://img.youtube.com/vi/k_5M-z_RUKA/sddefault.jpg)](https://www.youtube.com/watch?v=k_5M-z_RUKA)
+
+
+
+One the weekends you can find me at my local hillybilly airstrip flying planes without any engines like this beautiful vintage SGS 1-26:
+
+
+![This is an image](https://i.imgur.com/J0IK7JB.jpg)
+
 
 https://soaringnc.org
-
 
 
 <!---
